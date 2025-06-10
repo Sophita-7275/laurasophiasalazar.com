@@ -5,7 +5,7 @@
 
 body {
   margin: 0;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Cormorant Garamond', serif;
   background-color: var(--azul);
   color: var(--blanco);
   display: flex;
@@ -89,7 +89,9 @@ p {
   pointer-events: none;
 }
 
-
+h1, h2, h3 {
+  font-weight: 600;
+}
 
 
 @media (max-width: 768px) {
