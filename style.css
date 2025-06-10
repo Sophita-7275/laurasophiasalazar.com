@@ -21,7 +21,7 @@ header {
 }
 
 .logo img {
-  height: 50px;
+  height: 140px;
   width: auto;
 }
 
@@ -82,7 +82,7 @@ p {
   top: 30%;
   right: 5%;
   transform: translateY(-30%);
-  width: 320px;
+  width: 500px;
   max-width: 80vw;
   opacity: 0.6;
   z-index: 0;
